@@ -14,6 +14,9 @@ def get_operator_fn(op):
 
 
 
+
+
+
 def calculate_band(dsf1, dsf2, bnd1, bnd2, outfile, oper):
 
         #gets 2 raster files (tif) ds1 and s2, then does a calculation with one band from
